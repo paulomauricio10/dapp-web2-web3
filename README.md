@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Um frontend simples em web, desenvolvido com JS/React, para integrar com um contrato inteligente na blockchain da BSC Testnet utilizando a EthersJS (lib que é usada para interagir com a Ethereum Blockchain), permitindo interações como leitura e gravação de dados no contrato, com suporte a transações e gerenciamento de estados em tempo real
 
 ## Available Scripts
 
